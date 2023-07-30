@@ -5,13 +5,9 @@ This is the project we build in my Ultimate React course. You can find the full 
 Getting Started
 To get started with GameHub, follow these steps:
 
-Clone this repository to your local machine.
-Run npm install to install the required dependencies.
-Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first.
-Add the API key to src/services/api-client.ts
-Run npm run dev to start the web server.
+
 About the Course
-I have designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
+learn how to:
 
 Build front-end apps with React and TypeScript
 Build reusable function components
